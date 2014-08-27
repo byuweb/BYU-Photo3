@@ -64,7 +64,7 @@ namespace MvcPhoto2.Security
             string[] roles = { "Admin", "Photographer" };
             if (username == null || username == "")
                 throw new ProviderException("User name cannot be empty or null.");
-            var t = db.Authentications;
+
             var usr = db.Authentications.FirstOrDefault(a => a.NetId == username);
             string roleName = usr == null ? null : usr.role;
 
