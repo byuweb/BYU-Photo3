@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<index>
+<info>
+ <indexPath>Y:\MvcPhoto2</indexPath>
+ <fields count='12'>
+  <field name='date'/>
+  <field name='dateCategories'/>
+  <field name='description'/>
+  <field name='descriptionWithoutNumbers'/>
+  <field name='fileName'/>
+  <field name='filePath'/>
+  <field name='id'/>
+  <field name='photoHref'/>
+  <field name='photoSrc'/>
+  <field name='photographer'/>
+  <field name='shootHref'/>
+  <field name='shootName'/>
+ </fields>
+ <numDocs>3783182</numDocs>
+ <maxDoc>3783182</maxDoc>
+ <numDeletedDocs>0</numDeletedDocs>
+ <numTerms>556522</numTerms>
+ <hasDeletions>false</hasDeletions>
+ <lastModified>N/A</lastModified>
+ <indexVersion>63479435556274</indexVersion>
+ <indexFormat>
+  <genericName>Lucene 4.0</genericName>
+  <capabilities>flexible, codec-specific</capabilities>
+ </indexFormat>
+ <directoryImpl>org.apache.lucene.store.SimpleFSDirectory</directoryImpl>
+ <files count='7'>
+  <file name='_gy43.cfe' size='276' func='compound file entries list'/>
+  <file name='_gy43.cfs' size='2329259358' func='compound file with various index data'/>
+  <file name='_gy43.fdt' size='1752407819' func='null'/>
+  <file name='_gy43.fdx' size='30265490' func='null'/>
+  <file name='_gy43.si' size='286' func='null'/>
+  <file name='segments.gen' size='20' func='generation number - global file'/>
+  <file name='segments_f8xs' size='72' func='per-commit list of segments and user data'/>
+ </files>
+ <commits count='1'>
+  <commit segment='segments_f8xs' segCount='1' deleted='false' files='4'>
+   <file name='_gy43.cfs'/>
+   <file name='_gy43.si'/>
+   <file name='segments_f8xs'/>
+   <file name='_gy43.cfe'/>
+  </commit>
+ </commits>
+</index>

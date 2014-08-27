@@ -1,0 +1,17 @@
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\MvcByuTemplate.dll
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\MvcByuTemplate.pdb
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\DotNetCasClient.dll
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\EntityFramework.dll
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\DotNetCasClient.pdb
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\DotNetCasClient.xml
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\bin\EntityFramework.xml
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\obj\Debug\ResolveAssemblyReference.cache
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\obj\Debug\MvcByuTemplate.dll
+K:\Daniel\Documents\visual studio 2010\Projects\MvcByuTemplate\MvcByuTemplate\obj\Debug\MvcByuTemplate.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\DotNetCasClient.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\DotNetCasClient.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\DotNetCasClient.xml
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\obj\Debug\MvcPhoto2.pdb

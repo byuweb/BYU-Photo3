@@ -1,0 +1,242 @@
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\DotNetCasClient.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\DotNetCasClient.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\bin\DotNetCasClient.xml
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcByuTemplate\obj\Debug\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\MvcPhoto2\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2website\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\HtmlAgilityPack.dll
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\Lucene.Net.dll
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\HtmlAgilityPack.pdb
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\bin\Lucene.Net.xml
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.dll
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.xml
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+C:\Users\averymd\Documents\Repositories\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+N:\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.dll
+N:\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+N:\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.dll
+N:\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+N:\photo2 - Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+N:\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.dll
+N:\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+N:\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.xml
+N:\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+N:\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.xml
+N:\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+N:\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+N:\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.dll
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.xml
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Users\averymd\Desktop\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+P:\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.dll
+P:\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+P:\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.dll
+P:\photo2 - Copy\MvcPhoto2\bin\EntityFramework.dll
+P:\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+P:\photo2 - Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+P:\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.dll
+P:\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+P:\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.xml
+P:\photo2 - Copy\MvcPhoto2\bin\EntityFramework.xml
+P:\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+P:\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.xml
+P:\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+P:\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+P:\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\EntityFramework.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\DotNetCasClient.xml
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\EntityFramework.xml
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\bin\Lucene.Net.xml
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+\\typo.unicom.byu.edu\c$\inetpub\wwwroot\photo2 - Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\MvcPhoto2.dll
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\DotNetCasClient.dll
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\Lucene.Net.dll
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\DotNetCasClient.xml
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\bin\Lucene.Net.xml
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+\\typo.unicom.byu.edu\e$\photo2-Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+E:\photo2-Copy\MvcPhoto2\bin\MvcPhoto2.dll
+E:\photo2-Copy\MvcPhoto2\bin\MvcPhoto2.pdb
+E:\photo2-Copy\MvcPhoto2\bin\DotNetCasClient.dll
+E:\photo2-Copy\MvcPhoto2\bin\EntityFramework.dll
+E:\photo2-Copy\MvcPhoto2\bin\HtmlAgilityPack.dll
+E:\photo2-Copy\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+E:\photo2-Copy\MvcPhoto2\bin\Lucene.Net.dll
+E:\photo2-Copy\MvcPhoto2\bin\DotNetCasClient.pdb
+E:\photo2-Copy\MvcPhoto2\bin\DotNetCasClient.xml
+E:\photo2-Copy\MvcPhoto2\bin\EntityFramework.xml
+E:\photo2-Copy\MvcPhoto2\bin\HtmlAgilityPack.pdb
+E:\photo2-Copy\MvcPhoto2\bin\Lucene.Net.xml
+E:\photo2-Copy\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+E:\photo2-Copy\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+E:\photo2-Copy\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+E:\photo2\MvcPhoto2\bin\MvcPhoto2.dll
+E:\photo2\MvcPhoto2\bin\MvcPhoto2.pdb
+E:\photo2\MvcPhoto2\bin\DotNetCasClient.dll
+E:\photo2\MvcPhoto2\bin\EntityFramework.dll
+E:\photo2\MvcPhoto2\bin\HtmlAgilityPack.dll
+E:\photo2\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+E:\photo2\MvcPhoto2\bin\Lucene.Net.dll
+E:\photo2\MvcPhoto2\bin\DotNetCasClient.pdb
+E:\photo2\MvcPhoto2\bin\DotNetCasClient.xml
+E:\photo2\MvcPhoto2\bin\EntityFramework.xml
+E:\photo2\MvcPhoto2\bin\HtmlAgilityPack.pdb
+E:\photo2\MvcPhoto2\bin\Lucene.Net.xml
+E:\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+E:\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+E:\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\MvcPhoto2.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\MvcPhoto2.pdb
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\DotNetCasClient.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\EntityFramework.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\HtmlAgilityPack.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\Lucene.Net.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\DotNetCasClient.pdb
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\DotNetCasClient.xml
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\EntityFramework.xml
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\HtmlAgilityPack.pdb
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\bin\Lucene.Net.xml
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+\\typo.unicom.byu.edu\e$\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+E:\photo2\MvcPhoto2\bin\MvcPhoto2.dll.config
+\\typo\photo2\MvcPhoto2\bin\MvcPhoto2.dll
+\\typo\photo2\MvcPhoto2\bin\MvcPhoto2.pdb
+\\typo\photo2\MvcPhoto2\bin\DotNetCasClient.dll
+\\typo\photo2\MvcPhoto2\bin\EntityFramework.dll
+\\typo\photo2\MvcPhoto2\bin\HtmlAgilityPack.dll
+\\typo\photo2\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+\\typo\photo2\MvcPhoto2\bin\Lucene.Net.dll
+\\typo\photo2\MvcPhoto2\bin\DotNetCasClient.pdb
+\\typo\photo2\MvcPhoto2\bin\DotNetCasClient.xml
+\\typo\photo2\MvcPhoto2\bin\EntityFramework.xml
+\\typo\photo2\MvcPhoto2\bin\HtmlAgilityPack.pdb
+\\typo\photo2\MvcPhoto2\bin\Lucene.Net.xml
+\\typo\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+\\typo\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+\\typo\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+\\typo.unicom.byu.edu\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+Y:\photo2\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Development_Avery\oldphoto3\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\MvcPhoto2.dll.config
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\EntityFramework.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\EntityFramework.SqlServer.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\HtmlAgilityPack.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\Lucene.Net.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\Microsoft.Web.Infrastructure.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.Helpers.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.Mvc.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.Razor.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.WebPages.Deployment.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.WebPages.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.WebPages.Razor.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\EntityFramework.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\EntityFramework.SqlServer.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\HtmlAgilityPack.pdb
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\Lucene.Net.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.Helpers.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.Mvc.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.Razor.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.WebPages.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.WebPages.Deployment.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\bin\System.Web.WebPages.Razor.xml
+C:\Development_Avery\oldphoto3\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Development_Avery\oldphoto3\MvcPhoto2\obj\Debug\MvcPhoto2.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\MvcPhoto2.dll.config
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\MvcPhoto2.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\MvcPhoto2.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\DotNetCasClient.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\EntityFramework.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\EntityFramework.SqlServer.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\HtmlAgilityPack.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\ICSharpCode.SharpZipLib.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\Lucene.Net.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\Microsoft.Web.Infrastructure.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.Helpers.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.Mvc.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.Razor.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.WebPages.Deployment.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.WebPages.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.WebPages.Razor.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\DotNetCasClient.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\DotNetCasClient.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\EntityFramework.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\EntityFramework.SqlServer.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\HtmlAgilityPack.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\Lucene.Net.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.Helpers.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.Mvc.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.Razor.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.WebPages.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.WebPages.Deployment.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\bin\System.Web.WebPages.Razor.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\obj\Debug\MvcPhoto2.csprojResolveAssemblyReference.cache
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\obj\Debug\MvcPhoto2.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2\obj\Debug\MvcPhoto2.pdb

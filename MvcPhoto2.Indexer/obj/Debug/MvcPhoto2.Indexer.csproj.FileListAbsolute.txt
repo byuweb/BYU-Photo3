@@ -1,0 +1,14 @@
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\MvcPhoto2.Indexer.exe.config
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\MvcPhoto2.Indexer.exe
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\MvcPhoto2.Indexer.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\MvcPhoto2.Indexer.ObjectModel.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\Lucene.Net.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\HtmlAgilityPack.dll
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\MvcPhoto2.Indexer.ObjectModel.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\Lucene.Net.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\Lucene.Net.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\HtmlAgilityPack.pdb
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\bin\Debug\HtmlAgilityPack.xml
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\obj\Debug\MvcPhoto2.Indexer.csprojResolveAssemblyReference.cache
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\obj\Debug\MvcPhoto2.Indexer.exe
+C:\Development_Avery\BYU-Photo3\MvcPhoto2.Indexer\obj\Debug\MvcPhoto2.Indexer.pdb

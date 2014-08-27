@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Photo2ModelStoreContainer" CdmEntityContainer="Photo2Entities1">
+    <EntitySetMapping Name="Authentications">
+      <EntityTypeMapping TypeName="Photo2Model.Authentication">
+        <MappingFragment StoreEntitySet="Authentication">
+          <ScalarProperty Name="NetId" ColumnName="NetId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="role" ColumnName="role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailCarts">
+      <EntityTypeMapping TypeName="Photo2Model.EmailCart">
+        <MappingFragment StoreEntitySet="EmailCart">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="photoShootName" ColumnName="photoShootName" />
+          <ScalarProperty Name="netId" ColumnName="netId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,283 @@
+﻿.shootTitle
+{
+    float:left;
+}
+.thumbnailSearch
+{
+    float:left;
+    padding: 10px;
+}
+
+#PhotoControls 
+    {
+
+width: 220px;
+float: left;
+padding-right: 30px;
+margin-top: 40px;
+padding-bottom: 20px;
+box-shadow: 7px 0 7px -7px 
+#CCC;
+
+}
+#ControlsList
+{
+    padding-top:10px;
+}
+#PhotoControls h3{
+border-bottom: 1px solid 
+#DEDEDE;
+text-transform: uppercase;
+}
+
+#PhotoList {
+list-style: none;
+margin-left: 0;
+padding-left: 0;
+}
+#photoFormBoxes
+{
+    margin-left: 10px;
+    margin-top:10px;
+}
+#oldsearch {
+    float: left;
+    padding-right: 30px;
+}
+#newsearchbar {
+    visibility: hidden;
+    float: left;
+    padding-right: 30px;
+}
+#search-box {
+ float: left;
+ padding-right: 30px;
+  
+}
+
+#search-box form {
+  display: inline;
+}
+
+#search-box {
+    float: left;
+    padding-right: 0;
+}
+#search-box form { 
+	display: inline-block;
+	background-image: linear-gradient(bottom, rgb(8,36,92) 24%, rgb(0,24,97) 62%, rgb(6,47,94) 81%);
+    background-image: -o-linear-gradient(bottom, rgb(8,36,92) 24%, rgb(0,24,97) 62%, rgb(6,47,94) 81%);
+    background-image: -moz-linear-gradient(bottom, rgb(8,36,92) 24%, rgb(0,24,97) 62%, rgb(6,47,94) 81%);
+    background-image: -webkit-linear-gradient(bottom, rgb(8,36,92) 24%, rgb(0,24,97) 62%, rgb(6,47,94) 81%);
+    background-image: -ms-linear-gradient(bottom, rgb(8,36,92) 24%, rgb(0,24,97) 62%, rgb(6,47,94) 81%);
+	background-image: linear-gradient(top, #628cb6 0%, #336699 100%);
+	border-radius:14px;
+	box-shadow:
+		0 1px 0 rgba(255, 255, 255, 0.25) inset,
+		0 1px 8px rgba(0, 0, 0, 0.2); 
+	padding: 0;
+}
+#search-box form { 
+	display: inline-block;
+	background-image: linear-gradient(bottom, rgb(175,177,179) 24%, rgb(181,180,184) 62%, rgb(215,219,224) 81%);
+background-image: -o-linear-gradient(bottom, rgb(175,177,179) 24%, rgb(181,180,184) 62%, rgb(215,219,224) 81%);
+background-image: -moz-linear-gradient(bottom, rgb(175,177,179) 24%, rgb(181,180,184) 62%, rgb(215,219,224) 81%);
+background-image: -webkit-linear-gradient(bottom, rgb(175,177,179) 24%, rgb(181,180,184) 62%, rgb(215,219,224) 81%);
+background-image: -ms-linear-gradient(bottom, rgb(175,177,179) 24%, rgb(181,180,184) 62%, rgb(215,219,224) 81%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.24, rgb(175,177,179)),
+	color-stop(0.62, rgb(181,180,184)),
+	color-stop(0.81, rgb(215,219,224)) 
+	);
+	border-radius:14px;
+	padding: 0;
+}
+form #search-box { 
+	display: inline-block;
+	background-image: linear-gradient(bottom, rgb(9,60,112) 24%, rgb(17,56,112) 62%, rgb(2,54,117) 81%);
+    background-image: -o-linear-gradient(bottom, rgb(9,60,112) 24%, rgb(17,56,112) 62%, rgb(2,54,117) 81%);
+    background-image: -moz-linear-gradient(bottom, rgb(9,60,112) 24%, rgb(17,56,112) 62%, rgb(2,54,117) 81%);
+    background-image: -webkit-linear-gradient(bottom, rgb(9,60,112) 24%, rgb(17,56,112) 62%, rgb(2,54,117) 81%);
+    background-image: -ms-linear-gradient(bottom, rgb(9,60,112) 24%, rgb(17,56,112) 62%, rgb(2,54,117) 81%);
+
+    background-image: -webkit-gradient(
+	    linear,
+	    left bottom,
+	    left top,
+	    color-stop(0.24, rgb(9,60,112)),
+	    color-stop(0.62, rgb(17,56,112)),
+	    color-stop(0.81, rgb(2,54,117))
+    );
+	border-radius:14px;
+	padding: 0;
+	box-shadow:
+		0 1px 0 rgba(255, 255, 255, 0.25) inset,
+		0 1px 8px rgba(0, 0, 0, 0.2); 
+}
+
+
+#search {
+    background-color: #eee;
+    font-size: 12px;
+    height: 20px;
+    top: 0px;
+    float:left;
+    left:-4px;
+    border: none;
+    margin-right: 34px;
+    border-radius: 15px;
+   
+    z-index: 1;
+}
+#search:focus { background-color: #FAF9F2 }
+#search-button1 
+{
+   float: right;
+   left: 36px;
+   padding:0; 
+}
+#site-name-offical {
+position: absolute;
+top: 12px;
+left: 400px;
+font-size: 36px;
+font-family: "Palatino Linotype","Palatino",Times,"Times New Roman",serif;
+color: 
+#FEFEFE;
+font-weight: normal;
+text-decoration: none;
+}
+a.button_Logoff {
+color: 
+white;
+display: block;
+background: 
+#628CB6;
+background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, 
+#628CB6), color-stop(100%, 
+#369));
+background-image: -webkit-linear-gradient(top, 
+#628CB6 0%, 
+#369 100%);
+background-image: -moz-linear-gradient(top, 
+#628CB6 0%, 
+#369 100%);
+background-image: -o-linear-gradient(top, 
+#628CB6 0%, 
+#369 100%);
+background-image: -ms-linear-gradient(top, 
+#628CB6 0%, 
+#369 100%);
+background-image: linear-gradient(top, 
+#628CB6 0%, 
+#369 100%);
+border-radius: 14px;
+box-shadow: 0 1px 0 
+rgba(255, 255, 255, 0.25) inset,
+ 0 1px 8px 
+rgba(0, 0, 0, 0.2);
+padding: 5px 28px;
+float: left;
+margin-right: 12px;
+text-decoration: none;
+font-weight: bold;
+position: relative;
+left: 850px;
+top: 10px;
+}
+#emailinputs
+{
+    display:block;
+    float:left;
+    width:5em;
+}
+.emailPicture
+{
+  
+   background: url('/Content/icons/Mail.fw.png');
+  background-repeat:no-repeat;
+   height:100px;
+}
+
+.EmailContainer:hover
+{
+    width:200px;
+    /*height: 50px;    background:#FAF8F0;
+    background:#F0FAFA;*/
+    }
+.addToEmail
+{
+  
+   background: url('/Content/icons/Add faded.fw.png');
+   background-repeat:no-repeat;
+    width:400px;
+    height:23px;
+    display:inline-block;
+    transition: background .25s ease-in-out;
+   -moz-transition: background .25s ease-in-out;
+   -webkit-transition: background .25s ease-in-out;
+    /*float: left;
+    margin: 10px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -o-transition: margin 0.5s ease-out;*/
+
+}
+
+.EmailContainer .addToEmail:hover  
+{
+    background: url('/Content/icons/1345137380_Mail Add.fw-smallerthenorigional.fw.png');
+    background-repeat:no-repeat;
+    display:inline-block;
+ /*   padding-top:0;
+    margin-top: 1px;*/
+
+}
+div.removeFromEmail
+{
+    background: url('/Content/icons/Faded Remove.fw.png');
+    background-repeat:no-repeat;
+    display:inline-block;
+}
+div.removeFromEmail:hover
+{
+    background: url('/Content/icons/1345137443_Mail Remove.png');
+    background-repeat:no-repeat;
+    display:inline-block;
+}
+.sinc
+{
+    background: url('/Content/icons/1345240450_arrow_double_clockwise_y.png');
+    display:inline-block;
+    background-repeat:no-repeat;
+}
+.sinc:hover
+{
+    background: url('/Content/icons/fadedsinc.fw.png');
+    display:inline-block;
+    background-repeat:no-repeat;
+}
+.shootreturn
+{
+    width:1200px;
+    -webkit-column-count:4; /* Chrome, Safari, Opera */
+    -moz-column-count:4; /* Firefox */
+    column-count:4;
+    -webkit-column-gap:10px; /* Chrome, Safari, Opera */
+    -moz-column-gap:10px; /* Firefox */
+    column-gap:10px;
+}
+.photoindexfolder
+{
+    width:1200px;
+    -webkit-column-count:4; /* Chrome, Safari, Opera */
+    -moz-column-count:4; /* Firefox */
+    column-count:4;
+    -webkit-column-gap:10px; /* Chrome, Safari, Opera */
+    -moz-column-gap:10px; /* Firefox */
+    column-gap:10px;
+}
