@@ -1,0 +1,46 @@
+﻿@model MvcPhoto2.ViewModels.PhotoIndexViewModel
+@{
+    
+}
+<div style="width:650px;">
+<h1>Advanced Search</h1>
+
+<h3>Instructions</h3>
+<p>The following provides alternative search options.</p>
+<fieldset>
+	<legend>Category/Date Search</legend>	
+@using (Html.BeginForm("dateSearch", "photosearch"))
+{
+    <p><em>Specify all, one, or some.</em></p>
+        <br />
+        <text> Select a category: </text>@Html.DropDownListFor(m => m.GeneralCategory, Model.GeneralCategoryFieldList, "None")<br /><br />
+        
+        <text> Select a Year: </text>@Html.DropDownListFor(m => m.Year, Model.yearFieldList, "None")<br /><br />
+        
+        <text> Enter search value: </text>@Html.TextBoxFor(m => m.SearchTerm, new { placeholder = "ex. jimmer" })<br /><br />
+		<input type="submit" value="Search" /><br /><br />
+}
+</fieldset>
+<fieldset>
+	<legend>Exact Search</legend>		
+@using (Html.BeginForm("SearchDefault", "photosearch"))
+{
+		<text> Put exact words in quotes: </text><text>&nbsp;</text><input type="text" name="SearchTerm" placeholder="'wswm 07'" />
+
+		<input type="submit" value="Search" /><br /><br />
+}
+
+</fieldset>
+
+<fieldset>
+	<legend>Similar Search</legend>
+@using (Html.BeginForm("SearchDefault", "photosearch"))
+{
+        <text> Use * at the end of a word (specifies all photos that contain words that begin with part of the word). List words with spaces. </text><br /><br />
+		@Html.TextBoxFor(m => m.SearchTerm,new { placeholder = "ex. msw* jimm*" })
+		
+
+		<input type="submit" value="Search" />
+}
+</fieldset>
+</div>

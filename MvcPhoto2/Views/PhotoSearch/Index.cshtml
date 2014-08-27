@@ -1,0 +1,28 @@
+﻿@model MvcPhoto2.ViewModels.PhotoIndexViewModel
+@{
+    string previousShoot = "";
+}
+
+<div>
+    <h1>Search Results</h1>
+    <h4>Search For > @Html.DisplayFor(m => m.SearchTerm)</h4>
+</div>
+<div class="shootreturn">
+
+    @if (Model.SampleSearchResults.Any())
+    {
+
+        foreach (var record in Model.SampleSearchResults)
+        {
+        <div class="shootTitle"><a href="@record.shootHref">@record.name</a></div><br />
+    }
+
+    }
+    else
+    {
+    <p>No searches were found. Please check spelling or try again.</p>
+    }
+
+
+
+</div>

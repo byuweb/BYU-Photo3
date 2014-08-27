@@ -1,0 +1,62 @@
+﻿@model MvcPhoto2.ViewModels.PhotoIndexViewModel
+@{
+    ViewBag.Title = "PhotoSearchResults";
+
+    int k = Model.PageIndex;
+    int total = Model.totalPages;
+
+
+}
+
+<h2>Search photo results</h2>
+<h4>Search For > @Html.DisplayFor(m => m.SearchTerm)</h4>
+@*<p>PageIndex k____ @k</p>
+<p>totalpages___ @total</p>*@
+
+
+<br /><br />
+
+
+
+<div id="clearfix"></div>
+<div style="float:left;">
+
+    <span>@Html.ActionLink("<< previous","index", new { searchTerm = Model.SearchTerm, checkbox = "on", PageIndex=k-50})</span>
+    <span>page: @k of @total</span>
+    <span>@Html.ActionLink("next >>", "index", new { searchTerm = Model.SearchTerm, checkbox = "on", PageIndex=k})</span>
+
+
+@if (Model.AllSearchIndexData.Any())
+{
+    <table>
+        
+    @for(int j = 0; j <= 4; j++)
+    {
+        <tr style="height:250px">
+        
+        
+        @for(int i=0; i < 10; i++)
+        {
+            
+            k++;
+            if (k == Model.AllSearchIndexData.Count()) { break; }                      
+            <td>
+                <div style="height:150px;">
+                    <a  href="@Model.AllSearchIndexData.ElementAt(k).photoHref">
+                        <img style="width:100px;height:auto;" src="@Model.AllSearchIndexData.ElementAt(k).photoSrc" />
+                      </a>
+                         <p>@Model.AllSearchIndexData.ElementAt(k).fileName</p>
+                    
+                </div>
+            </td>
+            
+        }
+            </tr>
+    }
+    
+        </table>
+}
+else{
+    <p>No searches were found. Please check spelling or try again.</p>
+}
+    </div>

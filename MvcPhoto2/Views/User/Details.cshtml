@@ -1,0 +1,32 @@
+﻿@model MvcPhoto2.Models.Authentication
+
+@{
+    ViewBag.Title = "Details";
+    
+    
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Authentication</legend>
+
+    <div class="display-label">NetId</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NetId)
+    </div>
+
+    <div class="display-label">Name</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">role</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.role)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

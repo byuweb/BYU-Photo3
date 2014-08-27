@@ -1,0 +1,49 @@
+﻿@model MvcPhoto2.Models.EmailCart
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>EmailCart</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.link)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.link)
+            @Html.ValidationMessageFor(model => model.link)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.photoShootName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.photoShootName)
+            @Html.ValidationMessageFor(model => model.photoShootName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.netId)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.netId)
+            @Html.ValidationMessageFor(model => model.netId)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

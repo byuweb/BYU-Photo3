@@ -1,0 +1,21 @@
+﻿@model MvcPhoto2.Models.ViewModels.shootsViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@Html.DisplayFor(m=>m.CategoryName)</h2>
+
+<div class="photoindexfolder">
+
+    @foreach (var item in Model.allShoots)
+    {
+
+
+
+        <a href="@Html.DisplayFor(modelItem=>item.href)">@Html.DisplayFor(modelItem => item.title)</a><br />
+
+
+
+
+    }
+</div>

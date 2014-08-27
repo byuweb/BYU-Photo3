@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MvcPhoto2.Models.EmailCart>
+
+<script>
+    /*$(document).ready(function () {
+
+        $("div.removeFromEmail").hover(function () {
+            $(this).effect("bounce", { times: 1 }, 300);
+        });
+
+    });*/
+  </script>
+   
+
+@if(Model.Count() != 0)
+{
+    <ul id="PhotoList">
+@foreach (var item in Model)
+{
+    
+        <li> 
+        <div class="EmailLinkContainer"><div class="removeFromEmail"><a href="/emailCart/delete?id=@(item.id)&url=@ViewBag.Url" style="height:16px;width:25px;display:inline-block;"></a>@*Html.ActionLink(" ", "Delete", new { id = item.id, url = ViewBag.Url }, new { style = "height:16px;width:25px;display:inline-block;" })*@<text>&nbsp</text><text>&nbsp</text><text>&nbsp</text><a href="@Html.DisplayFor(modelItem => item.link)">@Html.DisplayFor(modelItem => item.photoShootName)</a></div></div></li>
+      
+    
+    
+}
+</ul>
+    }
+    else
+    {
+    <text>None Selected.</text>
+}
+

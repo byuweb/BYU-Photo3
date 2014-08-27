@@ -1,0 +1,14 @@
+﻿@model MvcPhoto2.Models.email
+
+
+
+@using (Html.BeginForm("SendEmail", "emailCart"))
+{
+<span id="emailinputs">To:</span><span>@Html.TextBoxFor(m => m.to)</span><br /><br />
+<span id="emailinputs">from:</span><span>@Html.TextBoxFor(m => m.from)</span><br /><br />
+    <span id="emailinputs">Subject:</span><span>@Html.TextAreaFor(m => m.subject, new { cols = 64, rows = 1  })</span><br /><br />
+<span id="emailinputs">Message:</span><br /><br /><span >@Html.TextAreaFor(m => m.message, new { cols = 75, rows = 5 })</span><br /><br />
+    <h4>Shoots that will be sent:</h4>
+    @Html.Action("ListOfShootsAdded")<br /><br />
+<input type="submit" value="Send Email" />
+}

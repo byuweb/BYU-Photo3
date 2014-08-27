@@ -1,0 +1,30 @@
+﻿@model MvcPhoto2.Models.EmailCart
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>EmailCart</legend>
+
+    <div class="display-label">link</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.link)
+    </div>
+
+    <div class="display-label">photoShootName</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.photoShootName)
+    </div>
+
+    <div class="display-label">netId</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.netId)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
