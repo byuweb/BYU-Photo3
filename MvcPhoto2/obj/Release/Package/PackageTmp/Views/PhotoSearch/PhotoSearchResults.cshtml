@@ -1,0 +1,42 @@
+﻿@model MvcPhoto2.ViewModels.PhotoIndexViewModel
+@{
+    ViewBag.Title = "PhotoSearchResults";
+   
+    int k = Model.PageIndex;
+}
+
+<h2>Search photo results</h2>
+<h4>Search For > @Html.DisplayFor(m => m.SearchTerm)</h4>
+<div id="clearfix"></div>
+<div style="float:left;">
+
+    <span>@Html.ActionLink("<<","index", new { searchTerm = Model.SearchTerm, checkbox = "on", PageIndex = (k - 72)}) previous page</span>
+    <span>total pages: @Html.DisplayFor(m => m.totalPages)</span>
+    <span>next page @Html.ActionLink(">>","index", new { searchTerm = Model.SearchTerm, checkbox = "on", PageIndex = k})</span>
+
+@if (Model.AllSearchIndexData.Any())
+{
+    <table>
+        
+    @for(int j = 0; j <= 5; j++)
+    {
+        <tr>
+        
+        
+        @for(int i=0; i < 6; i++)
+        {
+            
+            k++;
+            if (k == Model.AllSearchIndexData.Count()) { break; }                      
+            <td><div style="height:150px;"><a  href="@Model.AllSearchIndexData.ElementAt(k).photoHref"><img style="width:100px;height:auto;" src="@Model.AllSearchIndexData.ElementAt(k).photoSrc" /></a></div></td>
+            
+        }
+            </tr>
+    }
+    
+        </table>
+}
+else{
+    <p>No searches were found. Please check spelling or try again.</p>
+}
+    </div>

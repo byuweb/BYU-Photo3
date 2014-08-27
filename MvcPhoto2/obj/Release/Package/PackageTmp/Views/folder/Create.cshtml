@@ -1,0 +1,44 @@
+﻿@model MvcPhoto2.Models.folderCategory
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+<script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script>
+<script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+    <fieldset>
+        <legend>folderCategory</legend>
+
+        <div class="editor-label">
+            Category Name
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.categoryName)
+            @Html.ValidationMessageFor(model => model.categoryName)
+        </div>
+
+        
+
+        <div class="editor-label">
+            Parent Category
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.parentId, (IEnumerable<SelectListItem>)ViewBag.categories, "none" )
+            
+            @Html.ValidationMessageFor(model => model.parentId)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

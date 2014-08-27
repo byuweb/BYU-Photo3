@@ -1,0 +1,15 @@
+﻿@model MvcPhoto2.Models.ViewModels.shootsViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@Html.DisplayFor(m=>m.CategoryName)</h2>
+<ul style="list-style:none">
+@foreach (var item in Model.allShoots)
+{
+    
+    <li><div class="EmailContainer"><div  class="addToEmail">
+       @Html.ActionLink(" ", "AddtoEmail", new { url = item.href, title = item.title, id =Model.categoryId }, new { style = "height:17px;width:25px;display:inline-block;" })
+        <a href="@Html.DisplayFor(modelItem=>item.href)">@Html.DisplayFor(modelItem=>item.title)</a></div></div></li>
+}
+</ul>

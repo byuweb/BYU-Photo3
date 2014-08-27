@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MvcPhoto2.Models.FolderStructure>
+@{
+    ViewBag.Title = "Photos";
+}
+<div style="text-align:center;">
+<h1>Photos</h1>
+</div>
+@if (User.IsInRole("Photographer"))
+{ }
+<div style="width:650px;text-align:center">
+</div>
+@foreach (var photo in Model)
+{
+    <a onclick="copyrightFunction()" id="photoLink(@Html.DisplayFor(x => photo.ID))" href="../..@Html.DisplayFor(item => photo.href)">@*<img src="../..@Html.DisplayFor(item => photo.href)" width="400px;" />*@ <img src="/dc1/dropbox/@Html.DisplayFor(item => photo.href)" width="400px;" /><h4>@Html.DisplayFor(x => photo.Name)</h4></a>
+   <br /><br />
+
+
+    <script type="text/javascript">
+        function copyrightFunction() {
+            //alert("By downloading this image you agree to use this image for non-commercial purposes.");
+            var url;
+            var agree = alert("By downloading this image you agree to use this image for non-commercial purposes.");
+
+            if (agree == false) {
+                url = "http://localhost:56259/dropBoxPhoto/Photos?folderClicked=@ViewBag.name";
+                document.getElementById("photoLink(@Html.DisplayFor(x => photo.ID))").href = url;
+            }
+
+        }
+    
+</script>
+}
+
+
+
+
+
+
+

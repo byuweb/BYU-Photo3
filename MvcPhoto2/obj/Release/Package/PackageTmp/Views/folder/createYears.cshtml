@@ -1,0 +1,16 @@
+﻿@model MvcPhoto2.Models.ViewModels.yearsViewModel
+
+@{
+    ViewBag.Title = "createYears";
+}
+
+<h2>Create Years</h2>
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+<p>Parent Folder:@Html.DropDownListFor(model => model.categoryId, Model.categories, "none" )</p>
+<p>Begining year: @Html.DropDownListFor(model => model.beginYear, Model.years, "none" )</p>
+<p>Ending Year: @Html.DropDownListFor(model => model.endyear, Model.years, "none" )</p>
+<p>
+            <input type="submit" value="Create" />
+        </p>
+}

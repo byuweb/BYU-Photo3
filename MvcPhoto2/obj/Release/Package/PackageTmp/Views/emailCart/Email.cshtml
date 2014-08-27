@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Email";
+}
+
+<div class="emailPicture">
+<h1>Email</h1></div>
+
+<div style="width:600px;">
+
+@Html.Action("sendEmail")
+</div><br />
+<a href="/emailCart/deleteAll">Clear Queue</a>
+<p style="color:green;">@ViewBag.result</p>

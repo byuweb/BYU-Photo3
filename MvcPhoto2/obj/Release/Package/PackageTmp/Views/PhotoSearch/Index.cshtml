@@ -1,0 +1,32 @@
+﻿@model MvcPhoto2.ViewModels.PhotoIndexViewModel
+@{
+    string previousShoot = "";
+}
+		
+<div ><h1>Search Results</h1>
+<h4>Search For > @Html.DisplayFor(m => m.SearchTerm)</h4></div>
+<div style="width:650px;">
+
+    @if (Model.SampleSearchResults.Any())
+    {
+    
+        foreach (var record in Model.SampleSearchResults)
+        {
+                
+                
+                <div class="addToEmail">@Html.ActionLink(" ", "AddToEmailCart", new { link = record.shootHref, photoShootName = record.name, searchTerm = Model.SearchTerm, searchField = Model.SearchField, type = Model.type }, new { style = "height:28px;width:30px;display:inline-block;" })</div>
+                <div class="shootTitle"><a href="@record.shootHref">@record.name</a> </div>
+
+        }
+
+    }
+    else
+    {
+    <p>No searches were found. Please check spelling or try again.</p>
+    }
+
+
+
+</div>
+
+

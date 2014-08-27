@@ -1,0 +1,46 @@
+﻿@model IEnumerable<MvcPhoto2.Models.Authentication>
+
+@{
+    ViewBag.Title = "Users";
+}
+
+<h2>Manage Users</h2>
+
+<p>
+   
+    <a class="button" href="/User/Create" style="display:inline-block; float:none;">Create New</a>
+</p>
+<table>
+    <tr>
+        <th>
+            NetId
+        </th>
+        <th>
+            Name
+        </th>
+        <th>
+            role
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NetId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.role)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.NetId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.NetId }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.NetId  })
+        </td>
+    </tr>
+}
+
+</table>

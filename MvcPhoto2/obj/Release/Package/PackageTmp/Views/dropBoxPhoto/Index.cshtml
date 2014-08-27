@@ -1,0 +1,14 @@
+﻿@model IEnumerable<MvcPhoto2.Models.FolderStructure>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h1>Drop Box</h1>
+<ul style="list-style:none">
+@foreach (var folder in Model)
+{
+    
+    <li><div class="EmailLinkContainer"><div  class="addToEmail">@Html.ActionLink(" ", "AddToEmailCart", new { link = folder.href, photoShootName = folder.Name, folderClickedName = ViewBag.clicked, parentName = ViewBag.ParentName }, new { style = "height:17px;width:25px;display:inline-block;" })<a href="@Html.DisplayFor(item => folder.href)" >@Html.DisplayFor(item => folder.Name)</a></div></li>
+}
+</ul>
