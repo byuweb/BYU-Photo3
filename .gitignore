@@ -1,0 +1,13 @@
+#ignore directories to index
+MvcPhoto2/Dropbox/*
+MvcPhoto2/Lucene/*
+MvcPhoto2/Photo_index/*
+obj/Debug/
+obj/Release/
+
+
+
+
+# random other files and folders
+*/.settings/
+*.DS_Store

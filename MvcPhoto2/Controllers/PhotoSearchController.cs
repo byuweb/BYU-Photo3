@@ -17,7 +17,6 @@ namespace MvcPhoto2.Controllers
 {
     public class PhotoSearchController : Controller
     {
-        //private IEnumerable<Metadata> _searchResults;
         private IEnumerable<Metadata> _searchResults;
         MetaDataRepository objData;
         public PhotoSearchController()
@@ -32,12 +31,12 @@ namespace MvcPhoto2.Controllers
             int totalResults = 0;
             if (!Directory.Exists(PhotoSearch._luceneDir)) Directory.CreateDirectory(PhotoSearch._luceneDir);
             // perform Lucene search
-            if (string.IsNullOrEmpty(type))
-                _searchResults = string.IsNullOrEmpty(searchField)
-                                    ? PhotoSearch.Search(searchTerm)
-                                    : PhotoSearch.Search(searchTerm, searchField);
-            else if (type == "default")
-                _searchResults = string.IsNullOrEmpty(searchField)
+            /*            if (string.IsNullOrEmpty(type))
+             //               _searchResults = string.IsNullOrEmpty(searchField)
+              //                                  ? PhotoSearch.Search(searchTerm)
+               //                                 : PhotoSearch.Search(searchTerm, searchField);
+                        else if (type == "default")*/
+            _searchResults = string.IsNullOrEmpty(searchField)
                                     ? PhotoSearch.SearchDefault(searchTerm)
                                     : PhotoSearch.SearchDefault(searchTerm, searchField);
 
@@ -147,11 +146,11 @@ namespace MvcPhoto2.Controllers
             var t = form["AllSearchIndexData"];
             string l = form["SearchTerm"];
             //return View(AllSearchIndexData);
+
             return View();
         }
 
         /*
-         
          * 
          * -----------------------------Advanced Search Features-----------------------------------------*/
         private Photo2repo repo = new Photo2repo();

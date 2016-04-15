@@ -123,23 +123,23 @@ namespace MvcPhoto2.Model
             System.GC.WaitForPendingFinalizers();
             System.Drawing.Image image = new Bitmap(fullname);
             // Get the PropertyItems property from image.
-            PropertyItem[] propItems = image.PropertyItems;
-            int[] propertyItemId = image.PropertyIdList;
-            System.Text.ASCIIEncoding encoding = new System.Text.ASCIIEncoding();
-            string tempDate = "";
-            foreach (PropertyItem propItem in propItems)
-            {
+        //    PropertyItem[] propItems = image.PropertyItems;
+       //     int[] propertyItemId = image.PropertyIdList;
+        //    System.Text.ASCIIEncoding encoding = new System.Text.ASCIIEncoding();
+       //     string tempDate = "";
+       //     foreach (PropertyItem propItem in propItems)
+       //     {
                 //gets title
-                if (propItem.Id == 270)
-                {
-                    Meta.description = encoding.GetString(propItem.Value);
-                    Meta.descriptionWithoutNumbers = RemoveNumbers(Meta.description);
-                }
-                if (propItem.Id == 36867) tempDate = encoding.GetString(propItem.Value);
-            }
-            Meta.dateCategories = getYear(tempDate) + " " + path[path.Count() - 5] + " " + path[path.Count() - 4];
-            Meta.date = ChangeDate(tempDate);
-            image.Dispose();
+      //          if (propItem.Id == 270)
+      //          {
+      //              Meta.description = encoding.GetString(propItem.Value);
+      //              Meta.descriptionWithoutNumbers = RemoveNumbers(Meta.description);
+      //          }
+      //          if (propItem.Id == 36867) tempDate = encoding.GetString(propItem.Value);
+      //      }
+      //      Meta.dateCategories = getYear(tempDate) + " " + path[path.Count() - 5] + " " + path[path.Count() - 4];
+      //      Meta.date = ChangeDate(tempDate);
+       //     image.Dispose();
             
             return Meta;
            
@@ -149,14 +149,44 @@ namespace MvcPhoto2.Model
         public string getHtmlFromPage(string htmlpath)
         {
             string innerText = "";
-            HtmlDocument htmlDoc = new HtmlDocument();
-            htmlDoc.Load(htmlpath);
-            if (htmlDoc.DocumentNode != null)
+  //          HtmlDocument htmlDoc = new HtmlDocument();
+    //        htmlDoc.Load(htmlpath);
+      //      if (htmlDoc.DocumentNode != null)
+        //    {
+       //         HtmlNode bodyNode = htmlDoc.DocumentNode.SelectSingleNode("//table");
+        //        innerText = bodyNode.InnerText;
+         //   }
+          //  return innerText;
+		   try
             {
-                HtmlNode bodyNode = htmlDoc.DocumentNode.SelectSingleNode("//table");
-                innerText = bodyNode.InnerText;
+                innerText = "";
+                HtmlDocument htmlDoc = new HtmlDocument();
+                htmlDoc.Load(htmlpath);
+
+                if (htmlDoc.DocumentNode != null)
+                {
+                    //    HtmlNode bodyNode = htmlDoc.DocumentNode.SelectSingleNode("//test");
+                   // HtmlNode[] nodes = htmlDoc.DocumentNode.SelectNodes("//table").ToArray();
+                 //   foreach(HtmlNode item in nodes)
+                 //   {
+                 //       Debug.WriteLine(item.InnerHtml);
+                //     }
+
+                    HtmlNode bodyNode = htmlDoc.DocumentNode.SelectSingleNode("//div[@id='table']");
+                    if(bodyNode!=null)
+                    {
+                        innerText = bodyNode.InnerText;
+                        //   innerText = bodyNode.InnerText;
+                        innerText = innerText.Trim();     
+					}
+
+                }
             }
-            return innerText;
+            catch
+            {
+      //          Debug.WriteLine("failed2");
+            }
+			return innerText;
         }
         //
         // gives a string that makes searches more specific

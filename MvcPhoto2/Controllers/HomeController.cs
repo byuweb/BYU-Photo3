@@ -18,7 +18,6 @@ namespace MvcPhoto2.Controllers
        
         public ActionResult Index(string result)
         {
-            
             TempData["Result"] = result;
             return View();
         }

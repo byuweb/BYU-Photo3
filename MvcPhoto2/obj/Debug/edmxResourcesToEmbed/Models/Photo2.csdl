@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Schema Namespace="Photo2Model" Alias="Self" xmlns="http://schemas.microsoft.com/ado/2009/11/edm" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
-  <EntityContainer Name="Photo2Entities1" annotation:LazyLoadingEnabled="true" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+<Schema Namespace="Photo2Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Photo2Entities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Authentications" EntityType="Photo2Model.Authentication" />
     <EntitySet Name="EmailCarts" EntityType="Photo2Model.EmailCart" />
   </EntityContainer>
@@ -16,7 +16,7 @@
     <Key>
       <PropertyRef Name="id" />
     </Key>
-    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" />
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
     <Property Name="link" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
     <Property Name="photoShootName" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />
     <Property Name="netId" Type="String" MaxLength="50" Unicode="false" FixedLength="false" />

@@ -21,8 +21,8 @@ namespace MvcPhoto2.Controllers
         public ActionResult LogOff()
         {
             DotNetCasClient.CasAuthentication.SingleSignOut();
-            return RedirectToAction("Index", "Home");
-            //return Redirect("http://photo.byu.edu/");
+            //return RedirectToAction("Index", "Home");
+            return Redirect("http://photo.byu.edu/");
         }
     }
 }

@@ -22,7 +22,7 @@ namespace MvcPhoto2.Controllers
         public string publicUrl = "";
         public ActionResult Index(string id)
         {
-            Debug.WriteLine("This is my output.");
+//            Debug.WriteLine("This is my output.");
             publicUrl = id;
             string[] words = id.Split('\\');
             //create a view model to display all the data.
